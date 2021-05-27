@@ -1,5 +1,5 @@
 # breast_cancer_classification
-A Matlab project to perform breast cancer tumor classification as benign or malignant using Machine Learning models.
+A Matlab project to perform breast cancer tumor classification as benign or malignant
 <h2>Description of the files:</h2>
 <p>
  preprocessing.m : Preprocessing the input data <br>
@@ -11,8 +11,7 @@ A Matlab project to perform breast cancer tumor classification as benign or mali
  svm.m : Train SVM on the model <br>
  model_outputs.m: Output of the metrics of all the model <br>
   <p>
-<h2>High Level Architecture</h2>
-![](HighLevelArchitecture/HighLeveArchitecture.png)
+
 <h2>Steps to run the files: </h2>
 <p>
   1. Load all the files into a single folder <br>
