@@ -1,5 +1,12 @@
 # breast_cancer_classification
 A Matlab project to perform breast cancer tumor classification as benign or malignant
+<h2>Problem Statement</h2>
+<p>
+This project aims to predict whether the cancer tumor of the patient is benign or malignant using classification algorithms in the machine learning toolbox of Matlab.
+	The dataset is a collection of 3 csv files, which contains data about patients who have recovered, died and are still undergoing treatment. We aim to combine from all these three datasets and predict if the tumor is cancerous.
+	All these datasets contain 30 variables, out of which 4 are numerical variables and the rest are categorical. They contain 1134 rows, all combined in total. The columns contain information about the patient like gender, education, age, weight, thickness of the tumor, pregnancy, menopausal age and other important parameters related to a cancer patient. The dataset contains around 10% of null values.
+</p>
+
 <h2>Description of the files:</h2>
 <p>
  preprocessing.m : Preprocessing the input data <br>
